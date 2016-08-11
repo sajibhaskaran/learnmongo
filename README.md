@@ -1,0 +1,2 @@
+# learnmongo
+learning mongo
